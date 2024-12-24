@@ -118,7 +118,7 @@ public class decimal_to_binary_then_toggle_that_and_then_convert_it_into_decomal
         return sum;
     }
 }
-```java
+```
 
 ## Problem Statement 3.
 Jack is always excited about sunday. It is favourite day, when he gets to play all day. And goes to cycling with his friends. 
