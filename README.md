@@ -12,7 +12,7 @@ There are 3 empty packets in the given set. These 3 empty packets represented as
 
 Ans should be -> [4,5,1,9,5,0,0,0].
 
-```
+```java
 public class conveyorBeltProblem{
     public static void main(String args[]){
         int arr[] = {4,5,0,1,9,0,5,0};
@@ -52,7 +52,7 @@ Explanation:
 
 Binary representation of 10 is 1010. After toggling the bits(1010), will get 0101 which represents “5”. Hence output will print “5”.
 
-```
+```java
 import java.util.*;
 
 public class decimal_to_binary_then_toggle_that_and_then_convert_it_into_decomal {
@@ -145,7 +145,7 @@ The month start with mon(Monday). So the upcoming sunday will arrive in next 6 d
 
 Now total number of days are 13. It means 6 days to first sunday and then remaining 7 days will end up in another sunday. Total 2 sundays may fall within 13 days. 
 
-``` 
+```java
 import java.util.Scanner;
 
 public class sundayCount {
@@ -182,7 +182,7 @@ As 7 is the first element, it will consider in the result.
 Since total of  3 elements is present in the array that meets the condition.
 
 Hence the output = 3.
-``` 
+```java
 import java.util.*;
 
 public class priorElements {
@@ -245,7 +245,7 @@ Product of the digits 5,2,4,4
 5*2*4*4= 160
 
 Hence, output is 160.
-``` 
+```java 
 import java.util.*;
 
 public class supermarket {
@@ -298,7 +298,7 @@ Among all the sets, Set 2 has more number of a’s. The number of a’s in set 2
 
 Hence, the output is 3. Solve this in java and explain.
 
-  ```
+  ```java
     public class max_a_problem {
     public static int maxAquaCurtains(String str, int l) {
         int n = str.length();
@@ -350,7 +350,7 @@ Rest of the members can be arranged in (4-1)! ways.(1 is subtracted because the 
 So total possible ways 4 members can be seated around the circular table 2*6= 12.
 
 Hence, output is 12.
-  ```
+  ```java
 import java.util.*;
 
 public class round_table_problem {
@@ -398,7 +398,7 @@ Repeat step 2 ‘R’ times i.e. 3 tims  (9+9)+(9+9)+(9+9) = 18+18+18 =54
 Add digits of 54 as we need a single digit 5+4
 Hence , the output is 9.
 
-```
+```java
 import java.util.Scanner;
 
 public class dicoding_a_number {
